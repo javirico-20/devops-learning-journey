@@ -97,7 +97,7 @@ Simulated compromise scenario where I:
 - Produced a professional markdown incident report
 - Executed clean remediation with verification
 
-See [`exercises/consolidation-forensic-incident/`](./exercises/consolidation-forensic-incident/) *(coming soon)*
+See [`exercises/consolidation-forensic-incident/`](./exercises/consolidation-forensic-incident/)
 
 ---
 
